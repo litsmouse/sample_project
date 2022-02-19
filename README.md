@@ -2,9 +2,9 @@
 
 ## Heading
 
-### SubTitle
+### Heading
 
-#### Table Title
+#### Heading
 
 
 - everying in the title
